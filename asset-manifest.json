@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mmusafiri98/Nexus-web-search.git/static/css/main.02e70132.css",
+    "main.js": "/mmusafiri98/Nexus-web-search.git/static/js/main.d70f3c32.js",
+    "static/js/453.a0a0cb9b.chunk.js": "/mmusafiri98/Nexus-web-search.git/static/js/453.a0a0cb9b.chunk.js",
+    "index.html": "/mmusafiri98/Nexus-web-search.git/index.html",
+    "main.02e70132.css.map": "/mmusafiri98/Nexus-web-search.git/static/css/main.02e70132.css.map",
+    "main.d70f3c32.js.map": "/mmusafiri98/Nexus-web-search.git/static/js/main.d70f3c32.js.map",
+    "453.a0a0cb9b.chunk.js.map": "/mmusafiri98/Nexus-web-search.git/static/js/453.a0a0cb9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02e70132.css",
+    "static/js/main.d70f3c32.js"
+  ]
+}
