@@ -1,25 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+import NexusSuggestions from './components/NexusSuggestions'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
 
-export default App;
+import './App.css'
+
+const suggestionsList = [
+  { id: 1, suggestion: 'amazon' },
+  { id: 2, suggestion: 'youtube' },
+  { id: 3, suggestion: 'wikipedia' },
+  { id: 3, suggestion: 'instagram' },
+  { id: 4, suggestion: 'facebook' },
+  { id: 5, suggestion: 'reddit' },
+  { id: 6, suggestion: 'pornhub' },
+  { id: 7, suggestion: 'trc.taboola' },
+  { id: 8, suggestion: 'x' },
+  { id: 9, suggestion: 'xvideos' },
+  { id: 10, suggestion: 'yandex' },
+  { id: 11, suggestion: 'twitter' },
+  { id: 12, suggestion: 'duckduckgo' },
+  { id: 13, suggestion: 'whatsapp' },
+
+
+
+]
+
+const App = () => <NexusSuggestions suggestionsList={suggestionsList} />
+
+export default App
