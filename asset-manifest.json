@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Nexus-web-search/static/css/main.f59efdb3.css",
-    "main.js": "/Nexus-web-search/static/js/main.fa646f80.js",
+    "main.js": "/Nexus-web-search/static/js/main.9cd6fd42.js",
     "static/js/453.a0a0cb9b.chunk.js": "/Nexus-web-search/static/js/453.a0a0cb9b.chunk.js",
     "index.html": "/Nexus-web-search/index.html",
     "main.f59efdb3.css.map": "/Nexus-web-search/static/css/main.f59efdb3.css.map",
-    "main.fa646f80.js.map": "/Nexus-web-search/static/js/main.fa646f80.js.map",
+    "main.9cd6fd42.js.map": "/Nexus-web-search/static/js/main.9cd6fd42.js.map",
     "453.a0a0cb9b.chunk.js.map": "/Nexus-web-search/static/js/453.a0a0cb9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f59efdb3.css",
-    "static/js/main.fa646f80.js"
+    "static/js/main.9cd6fd42.js"
   ]
 }
